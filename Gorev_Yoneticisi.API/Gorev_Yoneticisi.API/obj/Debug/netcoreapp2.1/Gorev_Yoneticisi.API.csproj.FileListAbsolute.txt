@@ -1,0 +1,14 @@
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\bin\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.deps.json
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\bin\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.runtimeconfig.json
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\bin\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.runtimeconfig.dev.json
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\bin\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.dll
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\bin\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.pdb
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\obj\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.csprojAssemblyReference.cache
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\obj\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.csproj.CoreCompileInputs.cache
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\obj\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.RazorAssemblyInfo.cache
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\obj\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.RazorAssemblyInfo.cs
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\obj\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.AssemblyInfoInputs.cache
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\obj\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.AssemblyInfo.cs
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\obj\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.RazorTargetAssemblyInfo.cache
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\obj\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.dll
+C:\Users\MusTapHa\Documents\GitHUB\Gorev_Yoneticisi\Backend\Gorev_Yoneticisi.API\Gorev_Yoneticisi.API\obj\Debug\netcoreapp2.1\Gorev_Yoneticisi.API.pdb

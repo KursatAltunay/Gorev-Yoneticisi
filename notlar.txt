@@ -1,0 +1,17 @@
+Kullanıcı etkinlik oluşturabilecek
+etkinlik, görev, hatırlatma seçenekleri olabilecek
+takvim eklenecek
+ajanda görseli olacak
+
+
+Kullanıcı tablosu
+email
+sifre
+
+İş Tablosu
+userId
+Başlık
+Tarih
+İş Türü
+Konum
+Açıklama
